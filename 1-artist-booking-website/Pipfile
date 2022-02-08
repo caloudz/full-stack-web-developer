@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dateutil = "==2.6.0"
+Babel = "==2.9.0"
+Flask-Moment = "==0.11.0"
+Flask-WTF = "==0.14.3"
+Flask-SQLAlchemy = "==2.4.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
