@@ -25,4 +25,4 @@ The `./frontend` directory contains a complete Ionic frontend to consume the dat
 
 ## Postman Tests Passed
 
-![Postman Tests Passed Screenshot](/media/postman_passed.png)
+![Postman Tests Passed Screenshot](/3-coffee-shop-full-stack-iam/media/postman_passed.png)
